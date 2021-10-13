@@ -1,7 +1,6 @@
 # Building Java Projects with Maven
 This guide walks you through using Maven to build a simple Java project.
-Sravan Chowdary
-I have 4 years of expeirence on devops
+
 ## What you’ll build
 You’ll create an application that provides the time of day and then build it with Maven.
 
